@@ -32,12 +32,10 @@ If you don't see the print-out of a version for a specific tool, make sure the p
 
 Then install the necessary Visual Studio Code Extensions by executing the commands below in your terminal:
 
-- `code --install-extension ms-dotnettools.csdevkit`
-- `code --install-extension ms-dotnettools.vscodeintellicode-csharp`
 - `code --install-extension ms-toolsai.jupyter`
-- `code --install-extension yzhang.markdown-all-in-one`
 - `code --install-extension ms-python.python`
-- 
+- `code --install-extension yzhang.markdown-all-in-one`
+
 ### Accounts
 
 Create a GitHub account (if you don't already have one):
