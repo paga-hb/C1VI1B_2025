@@ -26,7 +26,7 @@ Verify the software has been successfully installed, by opening a terminal and i
 - `git --version`
 - `conda --version`
 
-If you don't see the print-out of a version for a specific tool, make sure the path to your tool's folder has been added to your (https://gist.github.com/nex3/c395b2f8fd4b02068be37c961301caa7)[`PATH` environment variable].
+If you don't see the print-out of a version for a specific tool, make sure the path to your tool's folder has been added to your [`PATH` environment variable](https://gist.github.com/nex3/c395b2f8fd4b02068be37c961301caa7).
 
 ### Visual Studio Code (VSCode) Extensions
 
