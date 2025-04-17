@@ -2,7 +2,7 @@
 
 This is the repository for the Data Visualization (Autumn 2025) course at Borås University.
 
-The course schedule can be found on [Kronox](https://schema.hb.se/setup/jsp/Schema.jsp?startDatum=2025-09-01&intervallTyp=a&intervallAntal=1&sprak=SV&sokMedAND=true&forklaringar=true&resurser=k.C1VI1B-20252-I22H5-) and the course material can be found on [Canvas](https://hb.instructure.com/courses/9397).
+The course schedule can be found on [Kronox](https://schema.hb.se/setup/jsp/Schema.jsp?startDatum=2025-09-01&intervallTyp=a&intervallAntal=1&sprak=SV&sokMedAND=true&forklaringar=true&resurser=k.C1VI1B-20252-I22H5-) and the course material can be found on [Canvas](https://hb.instructure.com/courses/10009).
 
 ## Delopment Environment Setup
 
