@@ -13,7 +13,6 @@ First, make sure you have installed Visual Studio Code, the .NET Sdk, Git, and M
 Install the following software on your computer:
 
 - [Visual Studio Code](https://code.visualstudio.com)
-- [.NET Sdk](https://dotnet.microsoft.com/en-us/download) (install .net 9.0)
 - [Git](https://git-scm.com/downloads)
 - [Miniconda](https://docs.anaconda.com/miniconda/install/#quick-command-line-install)
 
@@ -22,7 +21,6 @@ Install the following software on your computer:
 Verify the software has been successfully installed, by opening a terminal and issuing the following commands (each command should print out a version):
 
 - `code --version`
-- `dotnet --version`
 - `git --version`
 - `conda --version`
 
