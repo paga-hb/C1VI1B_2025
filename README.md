@@ -6,7 +6,7 @@ The course schedule can be found on [Kronox](https://schema.hb.se/setup/jsp/Sche
 
 ## Delopment Environment Setup
 
-First, make sure you have installed Visual Studio Code, the .NET Sdk, Git, and Miniconda on your computer.
+First, make sure you have installed Visual Studio Code, Git, and Miniconda on your computer.
 
 ### Software
 
