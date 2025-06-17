@@ -62,6 +62,8 @@ When the notebook opens in VSCode, click the text `Select Kernel` (in the top-ri
 
 Now you can follow the instructions in the notebook.
 
+---
+
 ## Appendix - Development Environment Setup per Operating System
 
 ### Windows
