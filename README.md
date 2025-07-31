@@ -33,7 +33,6 @@ Then install the necessary Visual Studio Code Extensions by executing the comman
 
 - `code --install-extension ms-toolsai.jupyter`
 - `code --install-extension ms-python.python`
-- `code --install-extension yzhang.markdown-all-in-one`
 
 ### Accounts
 
