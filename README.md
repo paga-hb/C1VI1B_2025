@@ -47,7 +47,7 @@ When you have installed the software above, open a terminal and clone the GitHub
 
 - `git clone https://github.com/paga-hb/C1VI1B_2025.git dataviz`
 - `cd dataviz`
-- `conda create -y -p ./.conda python=3.13`
+- `conda create -y -p ./.conda python=3.12`
 - `conda activate ./.conda`
 - `python -m pip install --upgrade pip`
 - `pip install ipykernel jupyter pylance numpy pandas matplotlib seaborn bokeh plotly dash`
@@ -58,7 +58,7 @@ Finally, make sure you are in the `dataviz` folder in your terminal, and open th
 
 - `code -g workshop1/vscode.ipynb:0 .`
 
-When the notebook opens in VSCode, click the text `Select Kernel` (in the top-right of the notebook), and choose `Python Environments... => conda (Python 3.13) .conda/bin/python`.
+When the notebook opens in VSCode, click the text `Select Kernel` (in the top-right of the notebook), and choose `Python Environments... => conda (Python 3.12) .conda/bin/python`.
 
 Now you can follow the instructions in the notebook.
 
